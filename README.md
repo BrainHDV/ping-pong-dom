@@ -10,6 +10,18 @@
 4. **ES6** модули
 5. Применение метода **requestAnimationFrame()**
 
+### Управление игрой
+
+Левый игрок:
+
+- вверх LeftShift
+- вниз LeftControl
+
+Правый игрок:
+
+- вверх ArrowUp
+- вниз ArrowDown
+
 ![ping-pong-dom](pong-dom.gif)
 
 [Click to show](https://brainhdv.github.io/ping-pong-dom)
